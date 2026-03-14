@@ -1,0 +1,3 @@
+PawPantry is a fully responsive, single-page demo landing page for a premium pet food store. Built with pure HTML, CSS, and vanilla JavaScript — no frameworks, no dependencies.
+The page features a warm cream and amber aesthetic with a complete shop showcase across 6 animal categories (Dog, Cat, Fish, Bird, Rabbit, and Reptile food), featured bestseller product cards with pricing and badges, a trust bar, a "Why PawPantry" section with stats and feature highlights, a newsletter signup, and a full footer. Includes smooth hover animations, scroll effects, and an add-to-cart button interaction.
+Built as a frontend design demo — feel free to fork and adapt for your own e-commerce or pet store project.
